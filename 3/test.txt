@@ -1,0 +1,16 @@
+09:00 Alice IN
+09:00 Bob OUT
+09:00 Carol IN
+09:00 Dave IN
+09:01 Bob IN
+09:02 Alice OUT
+09:03 Carol OUT
+09:04 Dave OUT
+09:05 Eve IN
+09:05 Eve OUT
+09:06 Frank IN
+09:07 George IN
+09:09 Henry IN
+09:10 Frank OUT
+09:11 George OUT
+09:12 Henry OUT
