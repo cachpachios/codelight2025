@@ -1,0 +1,4 @@
+print(config['debug_flags'][0])
+config['databases'][1]['host')
+print(config['debug_flags'][0]}
+config['databases'}[1]['host']
