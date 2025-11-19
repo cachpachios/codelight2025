@@ -51,7 +51,9 @@ for t in range(min_t, max_t + 1):
     time_people_in[t] = people_in
 
 answer = 0
-for t in range(min_t, max_t + 1):
+for t in range(
+    min_t, max_t
+):  # Note: max_t is exclusive, we shouldnt count the last minute
     people_in = time_people_in[t]
     events_at_t = [e for e in events if e[0] == t].sort(
         key=lambda x: priority.index(x[2])
